@@ -1,0 +1,23 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "Playground for testing nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varo4code/node-tests.git"
+  },
+  "keywords": [
+    "node",
+    "test"
+  ],
+  "author": "varocode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varo4code/node-tests/issues"
+  },
+  "homepage": "https://github.com/varo4code/node-tests#readme"
+}
