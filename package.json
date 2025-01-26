@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/varo4code/node-tests/issues"
   },
-  "homepage": "https://github.com/varo4code/node-tests#readme"
+  "homepage": "https://github.com/varo4code/node-tests#readme",
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "standard": "^17.1.2"
+  }
 }

@@ -1,4 +1,4 @@
-const { sum } = require('./sum');
+const { sum } = require('./sum')
 
 // Basic import / export with node.  Made with CommonJS
-console.log(sum(2, 3));
+console.log(sum(2, 3))
